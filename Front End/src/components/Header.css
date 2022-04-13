@@ -1,0 +1,65 @@
+
+.box-blue {
+  background: #2D87E0;
+  width: 100%;
+  height: 10%
+}
+
+.box-light {
+  background: #8cb7f3;
+  width: 100%;
+  height: 100%
+}
+
+.brand-text {
+  color: white;
+}
+
+.search-box {
+  width: 50%;
+}
+
+.menu-button {
+  background-color: #2D87E0;
+  border-color: #2D87E0;
+  border-width: 0;
+  max-width: auto;
+  max-height: auto;
+}
+
+.navbar-custom{
+  background-color: #2D87E0;
+}
+
+.span-category-dropdown{
+  margin-left: 20%;
+}
+
+.category-button-dropdown {
+  background-color: #8cb7f3;
+  border-width: 0;
+}
+
+.category-button-dropdown:hover {
+  background-color: #2D87E0;
+  border-color: #2D87E0;
+  color: white;
+}
+
+.search-button {
+  background-color: black;
+  position: relative;
+  right: 6.35%;
+  height: auto;
+}
+
+.home-button {
+  background-color: #2D87E0;
+  border-color: #2D87E0;
+  color: white;
+}
+
+.menu-button-home {
+  background-color: #2D87E0;
+  border-width: 0;
+}

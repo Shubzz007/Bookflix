@@ -1,0 +1,15 @@
+input.form-control {
+  max-width: "111em";
+}
+.sign-up-wrapper {
+  flex-direction: row;
+}
+.form-control {
+  max-width: 70rem;
+}
+
+@media screen and (max-width: 600px) {
+  .sign-in-wrapper {
+    flex-direction: column;
+  }
+}
